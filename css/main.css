@@ -6,8 +6,8 @@
   --highlight: rgb(var(--rgb-highlight));
   --background: black;
   --close-button: var(--dnd-color) !important;
-  --online-color: #39ff14;
-  --afk-color: #FFFF33;
+  --online-color: #FF0000;
+  --afk-color: #FF0000;
   --dnd-color: #FF0000;
   --streaming-color: #bc13fe;
   --rs-online-color: var(--online-color);
